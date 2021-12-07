@@ -1,1 +1,1 @@
-### [live site](https://inshad-netflix-clone.netlify.app/)
+### [Demo site](https://inshad-netflix-clone.netlify.app/)
